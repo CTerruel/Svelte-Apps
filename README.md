@@ -1,6 +1,8 @@
 # Svelte-Apps
 9 Svelte Apps
 
+[Expenses Tracker](https://svelte.dev/repl/abfd27c0e4dc4ef4b4bf1224ea075721?version=3.44.0)
+
 [To-do](https://svelte.dev/repl/8ba947343eac445e9ac2420782531528?version=3.44.0)
 
 [Infinite-Scrolling](https://svelte.dev/repl/4a132331f10d4d17b30cbe746d16f473?version=3.44.0)
