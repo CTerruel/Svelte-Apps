@@ -1,5 +1,7 @@
 # Svelte-Apps
-9 Svelte Apps
+11 Svelte Apps
+
+[Alert Component](https://svelte.dev/repl/cf572035a57748d8998694f07b0b2c48?version=3.44.1)
 
 [Expenses Tracker](https://svelte.dev/repl/abfd27c0e4dc4ef4b4bf1224ea075721?version=3.44.0)
 
